@@ -1,0 +1,5 @@
+# tavern-suite
+
+酒馆自研栈的组件索引、部署边界与版本清单。
+
+所有组件均为独立 private 仓库。第三方 SillyTavern、Gproxy、同步服务、数据库引擎、官方 CLI 和权重由各自上游提供，不镜像第三方二进制或生产挂载。具体仓库与版本见 COMPONENTS.md。
